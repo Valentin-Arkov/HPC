@@ -8,7 +8,7 @@ High Performance Computing Training Materials
 https://github.com/Valentin-Arkov/HPC/blob/main/HPC_01_Intro.pdf
 
 ## Лабораторные работы
-https://github.com/Valentin-Arkov/HPC/blob/main/HPC_Labs.pdf
+https://github.com/Valentin-Arkov/HPC/blob/main/HPC-Labs.pdf
 
 ## Видеоролики
 ### Лекции и дополнительные материалы
