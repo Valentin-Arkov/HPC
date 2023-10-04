@@ -2,6 +2,13 @@
 High Performance Computing Training Materials
 
 Учебные материалы по высокопроизводительным вычислениям
+## Лекции
+01 Введение
+
+https://github.com/Valentin-Arkov/HPC/blob/main/HPC_01_Intro.pdf
+
+## Лабораторные работы
+https://github.com/Valentin-Arkov/HPC/blob/main/HPC_Labs.pdf
 
 ## Видеоролики
 ### Лекции и дополнительные материалы
