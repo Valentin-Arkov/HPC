@@ -1,13 +1,14 @@
 # HPC
 High Performance Computing Training Materials
 
-Учебные материалы по высокопроизводительным вычислениям
+Учебные материалы по высокопроизводительным / параллельным / суперкомпьютерным вычислениям
 ## Лекции
 01 Введение
 
 https://github.com/Valentin-Arkov/HPC/blob/main/HPC_01_Intro.pdf
 
-## Лабораторные работы
+10 Лабораторные работы
+
 https://github.com/Valentin-Arkov/HPC/blob/main/HPC-Labs.pdf
 
 ## Видеоролики
@@ -56,7 +57,7 @@ https://ridero.ru/books/organizaciya_parallelnykh_processov/
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ13LqRix4qkIvBYvzCJN_N
 
 
-#### 4 Параллельное программирование с CUDA на GPU
+#### 4 Параллельные потоки CUDA
 
 ##### Пособие
 
