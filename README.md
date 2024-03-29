@@ -43,7 +43,7 @@ https://ridero.ru/books/organizaciya_parallelnykh_processov/
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ13LqRix4qkIvBYvzCJN_N
 
 #### 4 Параллельные потоки CUDA
-##### Пособие
+##### [Презентация] (https://github.com/Valentin-Arkov/HPC/blob/main/HPC_14_CUDA.pdf)
 (в работе)
 ##### Видео
 (в работе)
