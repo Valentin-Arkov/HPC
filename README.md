@@ -45,6 +45,7 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ13LqRix4qkIvBYvzCJN_N
 #### 4 Параллельные потоки CUDA
 ##### Пособие
 (в работе)
-[CUDA: Начало работы] (https://github.com/Valentin-Arkov/HPC/blob/main/HPC_14_CUDA.pdf)
+
+[CUDA: Начало работы](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_14_CUDA.pdf)
 ##### Видео
 (в работе)
