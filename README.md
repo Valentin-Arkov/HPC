@@ -11,8 +11,6 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkLYfCwLrqnuqbUWcDwT9T-c
 
 ### Лабораторные работы
 
-[Загрузка отчетов ИВТ-424 ](https://forms.yandex.ru/u/662911cdd046887550d5582d/)
-
 #### 1 Параллельные потоки Windows Threads
 ##### Пособие
 [Арьков В.Ю. Организация параллельных потоков. Часть 1](https://ridero.ru/books/parallelnye_potoki_windows/)
