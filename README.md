@@ -13,6 +13,8 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkLYfCwLrqnuqbUWcDwT9T-c
 
 ### [Загрузка отчетов](https://forms.yandex.ru/u/67e1315a84227c0d340f15ca/)
 
+[Результаты ЛР (23.04.2025)](https://github.com/Valentin-Arkov/HPC/blob/main/CBB-LR.jpg)
+
 #### 1 Параллельные потоки Windows Threads
 ##### Пособие
 [Арьков В.Ю. Организация параллельных потоков. Часть 1](https://ridero.ru/books/parallelnye_potoki_windows/)
