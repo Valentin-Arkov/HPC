@@ -11,14 +11,11 @@ High Performance Computing Training Materials
 [Оптимизация алгоритмов](https://github.com/Valentin-Arkov/HPC/blob/main/Optim-Algo.pdf)
 
 ## Видеоролики
-### Лекции и дополнительные материалы
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkLYfCwLrqnuqbUWcDwT9T-c
+[Лекции и дополнительные материалы](https://www.youtube.com/playlist?list=PLgkPUa9zaIkLYfCwLrqnuqbUWcDwT9T-c)
 
-### Лабораторные работы
+## Лабораторные работы
 
 #### [Загрузка отчетов](https://forms.yandex.ru/u/67e1315a84227c0d340f15ca/)
-
-#### [Результаты ЛР = зачёт (26.04.2025)](https://github.com/Valentin-Arkov/HPC/blob/main/CBB-LR.jpg)
 
 #### 1 Параллельные потоки Windows Threads
 ##### Пособие
