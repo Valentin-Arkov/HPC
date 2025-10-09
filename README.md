@@ -5,6 +5,8 @@ High Performance Computing Training Materials
 ## Лекции
 [01 Введение](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_01_Intro.pdf)
 
+[02 Производительность](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_02_Performance.pdf)
+
 ## Практика
 [Оптимизация алгоритмов](https://github.com/Valentin-Arkov/HPC/blob/main/Optim-Algo.pdf)
 
