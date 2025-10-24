@@ -11,7 +11,7 @@ High Performance Computing Training Materials
 
 [Оптимизация алгоритмов](https://github.com/Valentin-Arkov/HPC/blob/main/Optim-Algo.pdf)
 
-[Загрузка отчетов и презентаций](https://forms.gle/V3S5YU16ifRDDZbMA](https://docs.google.com/forms/d/e/1FAIpQLSeuG9lUL31emOKbd61Xe-hqDx4CXPPgONkSx1crXAD0moUw_A/viewform?usp=header)
+[Загрузка отчетов и презентаций](https://docs.google.com/forms/d/e/1FAIpQLSeuG9lUL31emOKbd61Xe-hqDx4CXPPgONkSx1crXAD0moUw_A/viewform?usp=header)
 
 ## Видеоролики
 [Лекции и дополнительные материалы](https://www.youtube.com/playlist?list=PLgkPUa9zaIkLYfCwLrqnuqbUWcDwT9T-c)
