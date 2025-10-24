@@ -8,14 +8,15 @@ High Performance Computing Training Materials
 [02 Производительность](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_02_Performance.pdf)
 
 ## Практика
+
 [Оптимизация алгоритмов](https://github.com/Valentin-Arkov/HPC/blob/main/Optim-Algo.pdf)
+
+[Загрузка отчетов и презентаций](https://forms.gle/V3S5YU16ifRDDZbMA)
 
 ## Видеоролики
 [Лекции и дополнительные материалы](https://www.youtube.com/playlist?list=PLgkPUa9zaIkLYfCwLrqnuqbUWcDwT9T-c)
 
-## Практика
-
-#### [Загрузка отчетов и презентаций](HyUIO00ph3E9l3#A*S@@u)
+## Лабораторные работы
 
 #### 1 Параллельные потоки Windows Threads
 ##### Пособие
