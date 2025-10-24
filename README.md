@@ -13,9 +13,9 @@ High Performance Computing Training Materials
 ## Видеоролики
 [Лекции и дополнительные материалы](https://www.youtube.com/playlist?list=PLgkPUa9zaIkLYfCwLrqnuqbUWcDwT9T-c)
 
-## Лабораторные работы
+## Практика
 
-#### [Загрузка отчетов](https://forms.yandex.ru/u/67e1315a84227c0d340f15ca/)
+#### [Загрузка отчетов и презентаций](HyUIO00ph3E9l3#A*S@@u)
 
 #### 1 Параллельные потоки Windows Threads
 ##### Пособие
