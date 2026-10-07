@@ -5,6 +5,8 @@ High Performance Computing Training Materials. Учебные материалы
 
 [01 Colab](https://forms.yandex.ru/u/6ac5d28e90fa7b78adad5542)
 
+[01 Задания](https://github.com/Valentin-Arkov/HPC/blob/main/files/HPC-L-01-Notes.pdf)
+
 [01 Введение](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_01_Intro.pdf)
 
 [02 Производительность](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_02_Performance.pdf)
