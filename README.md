@@ -7,19 +7,18 @@ High Performance Computing Training Materials. Учебные материалы
 
 [01 Задания](https://github.com/Valentin-Arkov/HPC/blob/main/files/HPC-L-01-Notes.pdf)
 
+## Полезные ссылки
+
 [Яндекс Практикум: Числа Фибоначчи](https://practicum.yandex.ru/blog/chisla-fibonachchi/)
 
-[01 Введение](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_01_Intro.pdf)
-
-[02 Производительность](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_02_Performance.pdf)
+[Яндекс Практикум: Свойства алгоритмов](https://practicum.yandex.ru/blog/algoritmy-i-kakimi-oni-byvayut/)
 
 ## Практика
 
 [Оптимизация алгоритмов](https://github.com/Valentin-Arkov/HPC/blob/main/Optim-Algo.pdf)
 
-[Загрузка отчетов и презентаций](https://docs.google.com/forms/d/e/1FAIpQLSeuG9lUL31emOKbd61Xe-hqDx4CXPPgONkSx1crXAD0moUw_A/viewform?usp=header)
-
 ## Видеоролики
+
 [Лекции и дополнительные материалы](https://www.youtube.com/playlist?list=PLgkPUa9zaIkLYfCwLrqnuqbUWcDwT9T-c)
 
 ## Лабораторные работы
