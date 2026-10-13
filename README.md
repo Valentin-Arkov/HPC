@@ -7,6 +7,8 @@ High Performance Computing Training Materials. Учебные материалы
 
 [01 Задания](https://github.com/Valentin-Arkov/HPC/blob/main/files/HPC-L-01-Notes.pdf)
 
+[Яндекс Практикум: Числа Фибоначчи](https://practicum.yandex.ru/blog/chisla-fibonachchi/)
+
 [01 Введение](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_01_Intro.pdf)
 
 [02 Производительность](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_02_Performance.pdf)
