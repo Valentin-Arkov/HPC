@@ -4,7 +4,9 @@ High Performance Computing Training Materials.
 
 Учебные материалы по высокопроизводительным / параллельным / суперкомпьютерным вычислениям
 
-[Загрузка отчетов - ссылки на блокноты Colab](https://forms.yandex.ru/u/6ac5d28e90fa7b78adad5542)
+[Загрузка отчетов по лекциям и практикам - ссылки на блокноты Colab](https://forms.yandex.ru/u/6ac5d28e90fa7b78adad5542)
+
+[Загрузка отчетов по ЛР](https://forms.yandex.ru/u/6ad70e81c45c07f94a3c7b04)
 
 ## Лекции
 
