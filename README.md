@@ -6,7 +6,7 @@ High Performance Computing Training Materials.
 
 [Загрузка отчетов по лекциям и практикам - ссылки на блокноты Colab](https://forms.yandex.ru/u/6ac5d28e90fa7b78adad5542)
 
-[Загрузка отчетов по ЛР](https://forms.yandex.ru/u/6ad70e81c45c07f94a3c7b04)
+[Загрузка отчетов по ЛР - ссылки на XLSX в облаке](https://forms.yandex.ru/u/6ad70e81c45c07f94a3c7b04)
 
 ## Лекции
 
