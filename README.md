@@ -29,28 +29,28 @@ High Performance Computing Training Materials.
 ## Лабораторные работы
 
 #### 1 Параллельные потоки Windows Threads
-##### Пособие
-[Арьков В.Ю. Организация параллельных потоков. Часть 1](https://ridero.ru/books/parallelnye_potoki_windows/)
 
-##### Видео
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkIVMN-NA_63ieqkiJ9LMYQy
+[Арьков В.Ю. Организация параллельных потоков. Часть 1](https://ridero.ru/books/parallelnye_potoki_windows/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2020-Win-Threads.pdf)
+
+[Видео](https://www.youtube.com/playlist?list=PLgkPUa9zaIkIVMN-NA_63ieqkiJ9LMYQy)
 
 #### 2 Параллельные потоки OpenMP
-##### Пособие
-[Арьков В.Ю. Организация параллельных потоков. Часть 2](https://ridero.ru/books/organizaciya_parallelnykh_potokov_chast_2/)
 
-##### Видео
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkIrIX9Bne8-vrpVLhiur9NI
+[Арьков В.Ю. Организация параллельных потоков. Часть 2](https://ridero.ru/books/organizaciya_parallelnykh_potokov_chast_2/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2020-OpenMP.pdf)
+
+[Видео](https://www.youtube.com/playlist?list=PLgkPUa9zaIkIrIX9Bne8-vrpVLhiur9NI)
 
 #### 3 Параллельные процессы MPI
-##### Пособие
-[Арьков В.Ю. Организация параллельных процессов](https://ridero.ru/books/organizaciya_parallelnykh_processov/)
 
-##### Видео
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ13LqRix4qkIvBYvzCJN_N
+[Арьков В.Ю. Организация параллельных процессов](https://ridero.ru/books/organizaciya_parallelnykh_processov/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2020-MPI.pdf)
+
+[Видео](https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ13LqRix4qkIvBYvzCJN_N)
 
 #### 4 Параллельные потоки CUDA
-##### Описание работы
+
 [CUDA: Начало работы](https://github.com/Valentin-Arkov/HPC/blob/main/HPC_14_CUDA.pdf)
 ##### Видео
 (в работе)
